@@ -1,0 +1,214 @@
+;Original;Pais
+0;Dubai, U.A.E.;U.A.E.
+1;New York, NY, U.S.A.;U.S.A.
+2;London, Great Britain;Great Britain
+3;Slovak Republic;Slovak Republic
+4;Russia;Russia
+5;Glasgow, Scotland;Scotland
+6;London, England;England
+7;Belgrade, SCG;SCG
+8;"Nova Sad, SErgia &amp; M";"SErgia &amp; M"
+9;"Serbia &amp; Montenegro";"Serbia &amp; Montenegro"
+10;Kaohsiung, Chinese Taipei;Chinese Taipei
+11;Torre Del Greco, Ita;Ita
+12;Czechoslovakia;Czechoslovakia
+13;Belgrade, Yugoslavia;Yugoslavia
+14;Barcelona;Barcelona
+15;Doha;Doha
+16;Las Vegas, NV, USA;USA
+17;"Banja Luka, Bosnia &amp; Herzegovina";"Bosnia &amp; Herzegovina"
+18;Busan, South Korea;South Korea
+19;Columbus, OH, U.S.A;U.S.A
+20;Ho Chi Minh City, Vietnam;Vietnam
+21;Bolivia;Bolivia
+22;Domincan Republic;Domincan Republic
+23;TBA;TBA
+24;Reunion Island, Reunion Island;Reunion Island
+25;Amsterdam, The Netherlands;The Netherlands
+26;Toulouse;Toulouse
+27;Casablanca;Casablanca
+28;Neuchatel;Neuchatel
+29;St.Gallen, Switz.;Switz.
+30;Changwon, Korea;Korea
+31;Kish, Iran;Iran
+32;Chisinau, Moldovia;Moldovia
+33;Kaohsiung, Taiwan;Taiwan
+34;Chisinau, Moldova;Moldova
+35;Venezuela;Venezuela
+36;Santa de Bogota, Col;Col
+37;Santo Domingo;Santo Domingo
+38;El Salvador, Salvador;Salvador
+39;Bratislava, Slovak R;Slovak R
+40;Abidjan, Ivory Coast;Ivory Coast
+41;Sarajevo, Bosnia;Bosnia
+42;Wrexham, Wales;Wales
+43;Skopje, Macedonia;Macedonia
+44;Skopje, Macedona;Macedona
+45;Bakio, Bakio;Bakio
+46;Taipei;Taipei
+47;The Hague, The Hague;The Hague
+48;Portoroz, Solvenia;Solvenia
+49;Bourg-en-Bresse, Bourg-en-Bresse;Bourg-en-Bresse
+50;Monastir, Monastir;Monastir
+51;Antalya, Antalya;Antalya
+52;Burnie, Tasmania;Tasmania
+53;Wroclaw, Wrocklaw;Wrocklaw
+54;Rock-Forest, Canda;Canda
+55;Valldoreix, Valldoreix;Valldoreix
+56;Wetzlar, Wetzlar;Wetzlar
+57;Faro;Faro
+58;Veli Losinj, Crotia;Crotia
+59;Estoril;Estoril
+60;Brazi;Brazi
+61;Belgrade, Belgrade;Belgrade
+62;Uriage, Uriage;Uriage
+63;Buenos Aires;Buenos Aires
+64;Esch-sur-Alzette, Esch-sur-Alzette;Esch-sur-Alzette
+65;Houston, Texas;Texas
+66;Tunis;Tunis
+67;Cairo, Eygpt;Eygpt
+68;Sale, Victoria;Victoria
+69;Mississauga, Ontaria;Ontaria
+70;Ramat, Hasharon;Hasharon
+71;Syria;Syria
+72;Sharm El Sheikh;Sharm El Sheikh
+73;Fayetteville, Fayetteville, AR;AR
+74;London;London
+75;Belgrade, Yug.;Yug.
+76;Korolev;Korolev
+77;Tao Yuan, Chinese Ta;Chinese Ta
+78;Kaohsiung;Kaohsiung
+79;TBD;TBD
+80;Kuala Lampur;Kuala Lampur
+81;Tai-Chung, TPE;TPE
+82;Forbach, Forbach;Forbach
+83;Guarulhos;Guarulhos
+84;El Salvador, San Salvador;San Salvador
+85;Guayaquil;Guayaquil
+86;Melilla, Melilla;Melilla
+87;Auckland, New Zealan;New Zealan
+88;Laos;Laos
+89;Szombathely, Hunary;Hunary
+90;Brasilia;Brasilia
+91;Bolivia/Chile;Bolivia/Chile
+92;Emmastad, Dutch Anti;Dutch Anti
+93;Toluca;Toluca
+94;Guatemala City;Guatemala City
+95;Taipei, Chinese Taip;Chinese Taip
+96;Portschach;Portschach
+97;Constanta;Constanta
+98;Poprad, Slovak;Slovak
+99;Phillipines;Phillipines
+100;Hamilton, NZ;NZ
+101;Lahore;Lahore
+102;Esch/Alzette;Esch/Alzette
+103;TBC;TBC
+104;Mondorf-Les-Bains;Mondorf-Les-Bains
+105;Moscow;Moscow
+106;Botwana;Botwana
+107;Bogota, Columbia;Columbia
+108;Villavicencio;Villavicencio
+109;Calgary, Alberta;Alberta
+110;Rio de Janeiro;Rio de Janeiro
+111;Calgary;Calgary
+112;Devon;Devon
+113;Port-of-Spain, TRI;TRI
+114;Amsterdam, The Nethe;The Nethe
+115;Salinas;Salinas
+116;Hong Kong, HKG;HKG
+117;Buenos Aires, Argent;Argent
+118;Bangkok;Bangkok
+119;Pacific Oceania;Pacific Oceania
+120;Kosice, Slovkia;Slovkia
+121;Johannesburg;Johannesburg
+122;Oklahoma City, OK;OK
+123;Angleur - Liege;Angleur - Liege
+124;Minsk;Minsk
+125;Ramat Hasharon;Ramat Hasharon
+126;Reggio Calabria;Reggio Calabria
+127;Sassari, Sardinia;Sardinia
+128;West Perth;West Perth
+129;Florianapolis;Florianapolis
+130;Bucharest;Bucharest
+131;Portoroz;Portoroz
+132;Polokwane;Polokwane
+133;Hodmezovasarhely, Hu;Hu
+134;Tashkent;Tashkent
+135;Nonthaburi, THA;THA
+136;Coatzacoalcos, Meixco;Meixco
+137;Pretoria;Pretoria
+138;Liege;Liege
+139;Devonport;Devonport
+140;Mexico City;Mexico City
+141;Delray Beach;Delray Beach
+142;Ramat Hasharon, Isra;Isra
+143;St Anton-Tirol, Aut.;Aut.
+144;Ramat Hasharon, ISR;ISR
+145;Nanjing;Nanjing
+146;Havana;Havana
+147;Ciudad de Habana;Ciudad de Habana
+148;Villavicencio, COL;COL
+149;Palma de Mallorca;Palma de Mallorca
+150;Elndhoven;Elndhoven
+151;Santa Caterina, Braz;Braz
+152;Bahia;Bahia
+153;Rotterdam, NED;NED
+154;Florianopolis, BRA;BRA
+155;Buenos Aires, Arg.;Arg.
+156;Presov;Presov
+157;Chile, Santiago;Santiago
+158;Manila;Manila
+159;Wuhan;Wuhan
+160;Manilla;Manilla
+161;Curacao, Dutch Antil;Dutch Antil
+162;Bratislava;Bratislava
+163;Abidjan;Abidjan
+164;Santa Cruz de la Sie;Santa Cruz de la Sie
+165;Novaya Kakhovka;Novaya Kakhovka
+166;Carson, CA, United S;United S
+167;Doornfontein, South;South
+168;Mexica;Mexica
+169;Cordoba, ARG;ARG
+170;Lara;Lara
+171;Guatemala City, GUA;GUA
+172;Santo Domingo, D.R.;D.R.
+173;Brunei;Brunei
+174;'s-Hertogenbosch;'s-Hertogenbosch
+175;Kolkata;Kolkata
+176;Dublin;Dublin
+177;Liberec, Czech Repub;Czech Repub
+178;Braunschweig;Braunschweig
+179;Abidjan, CIV;CIV
+180;Rungsted Kyst, DEN.;DEN.
+181;Noumea, New Caledoni;New Caledoni
+182;Lautoka, Fiji Island;Fiji Island
+183;Martinique, Lesser Antilles;Lesser Antilles
+184;Tehran;Tehran
+185;Montevideo, URU;URU
+186;Pau;Pau
+187;Birmingham, GBR;GBR
+188;Nelspruit;Nelspruit
+189;Kuala Lumpur, MAS;MAS
+190;Ostrava, Czech Rep.;Czech Rep.
+191;Prostejov, CZE;CZE
+192;Wellington;Wellington
+193;Harare;Harare
+194;Cape Town, SA;SA
+195;Jakarta, INA;INA
+196;Invercargill, NZL;NZL
+197;Montevideo;Montevideo
+198;Montevideo, Uraguay;Uraguay
+199;Willemstad;Willemstad
+200;Jakarta;Jakarta
+201;Birmingham, Britain;Britain
+202;Birmingham, UK;UK
+203;Tashkent, Uzb.;Uzb.
+204;Surabaya;Surabaya
+205;Pasig City, PHI;PHI
+206;Venezeuela;Venezeuela
+207;Durban, South  Africa;South  Africa
+208;Soviet Union;Soviet Union
+209;Cairo, Egpyt;Egpyt
+210;Urugay;Urugay
+211;Caribbean;Caribbean
+212;Willemstad, Curacao;Curacao
