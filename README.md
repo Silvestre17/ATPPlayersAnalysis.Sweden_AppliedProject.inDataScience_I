@@ -6,25 +6,28 @@
 
 ## 📝 Description
 
-This project focuses on analyzing a dataset of **ATP** (Association of Tennis Professionals) tennis players, specifically those who have played tournaments in Sweden 🇸🇪. The goal is to explore the data, prepare it for modeling, and ultimately attempt to predict the number of sets played in a match.
+This project performs a comprehensive analysis of an **ATP (Association of Tennis Professionals)** tennis dataset, with a specific focus on matches played in **Sweden** 🇸🇪. The workflow covers the entire data science lifecycle, from initial data exploration and web scraping to feature engineering and the application of machine learning models to predict the number of sets in a match.
 
 <p align="center">
-<img src="./img/ATP_Tour_logo.svg.png" alt="ATP" width="200">
+    <img src="./img/ATP_Tour_logo.svg.png" alt="ATP" width="200">
+</p>
+
+<p align="center">
+    <!-- Project Links -->
+    <a href="https://github.com/Silvestre17/ATPPlayersAnalysis.Sweden_AppliedProject.inDataScience_I"><img src="https://img.shields.io/badge/Project_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
 </p>
 
 ## ✨ Objective
 
-The main objective is to:
+The main objective is to leverage data science techniques to:
 
 *   **Explore and understand** the provided ATP tennis dataset.
 *   **Clean and prepare** the data for analysis and modeling.
 *   **Predict the number of sets** played in matches held in *Sweden*, using various features related to players and tournaments.
 
-**Data Source:** The dataset used in this project was provided as part of the Applied Data Science I course.
-
 ## 📚 Context
 
-This project was completed as part of the Applied Data Science I (***Projeto Aplicado a Ciência de Dados I***) course in the **[Licenciatura em Ciência de Dados](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** (*Bachelor Degree in Data Science*) at **ISCTE-IUL**.
+This project was completed as part of the **Projeto Aplicado a Ciência de Dados I** (*Applied Project in Data Science I*) course in the **[Licenciatura em Ciência de Dados](https://www.iscte-iul.pt/degree/code/0322/bachelor-degree-in-data-science)** (*Bachelor Degree in Data Science*) at **ISCTE-IUL** in academy year 2022/2023 (2nd semester of 2nd year).
 
 It involved **Weekly Presentations** to showcase progress and a **[`Final Presentation`](./Apresentação_Final_PACDI_Grupo2_ATP.pdf)** to summarize the project's findings and results.
 These presentations can be found in the [**`./ApresentacoesSemanais`**](./ApresentacoesSemanais) folder, 
@@ -35,9 +38,8 @@ Additionally, the **Final Project Report** is available in the [**`Report`**](./
 ## 🧮 Data Source
 
 *   The core data comes from the official **[ATP Tour](https://www.atptour.com/en/rankings/singles)** website.
-      * It had a focus on real-world data analysis and building valuable data products.
-   *  Details about our data collection techniques are provided below.
-
+    *   The dataset is in **JSON** format and contains information about players, tournaments, matches, and scores.
+    *   It was provided as part of the course materials and are the same as the ones used in the **[Armazenamento para Big Data (*Storage for Big Data*) project](https://github.com/Silvestre17/ATP.Tennis_MongoDB-SQL_BigDataStorage)**.
 
 ## 🏗️ Project Structure (CRISP-DM)
 
@@ -124,11 +126,16 @@ This project followed the CRISP-DM methodology for data mining. Here's a breakdo
 
 ## 📚 Conclusion
 
-This project provided valuable experience in data exploration, cleaning, and modeling within the context of tennis data. While the predictive models did not achieve high accuracy, the process of data preparation and feature engineering was insightful.
-
+This project provided valuable experience in data exploration, cleaning, and modeling within the context of tennis data. While the predictive models did not achieve high accuracy, the process of **data preparation** and **feature engineering** was insightful.
 
 Feel free to explore the code and data for more details! 🎾
 
+## 👥 Team Members (Group 2)
+
+*   **André Silvestre** (Nº 104532)
+*   **Diogo Catarino** (Nº 104745)
+*   **Francisco Gomes** (Nº 104944)
+*   **Rita Matos** (Nº 104936)
 
 ---
 
